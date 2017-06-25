@@ -9,3 +9,4 @@ In this tutorial we are going to build a small app which uses **AWS Step Functio
 * Serverless Framework (https://serverless.com/)
 * Serverless Step Functions (https://github.com/horike37/serverless-step-functions)
 
+![Screenshot](workflow.png)
