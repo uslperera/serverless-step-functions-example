@@ -9,5 +9,5 @@ In this example we are going to build a small app which uses **AWS Step Function
 * Serverless Framework https://serverless.com/
 * Serverless Step Functions https://github.com/horike37/serverless-step-functions
 
-### Workflow of the Step Machine
+### Workflow of the State Machine
 ![Screenshot](workflow.png)
