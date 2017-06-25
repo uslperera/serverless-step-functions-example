@@ -1,0 +1,21 @@
+{
+  "name": "serverless-step-functions-example",
+  "version": "1.0.0",
+  "description": "Serverless Step Functions example",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://uslperera@github.com/uslperera/serverless-step-functions-example.git"
+  },
+  "author": "Shamal Perera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uslperera/serverless-step-functions-example/issues"
+  },
+  "homepage": "https://github.com/uslperera/serverless-step-functions-example#readme",
+  "dependencies": {
+    "serverless-step-functions": "^1.0.4"
+  }
+}
